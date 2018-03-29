@@ -1,0 +1,141 @@
+Attaching to tema1_rt1_1
+[36mrt1_1  |[0m tcpdump: verbose output suppressed, use -v or -vv for full protocol decode
+[36mrt1_1  |[0m listening on eth0, link-type EN10MB (Ethernet), capture size 262144 bytes
+[36mrt1_1  |[0m IP 1.2.0.2 > 1.2.0.1: ICMP echo request, id 1, seq 1, length 64
+[36mrt1_1  |[0m IP 1.2.0.1 > 1.2.0.2: ICMP echo reply, id 1, seq 1, length 64
+[36mrt1_1  |[0m IP 1.2.0.3 > 1.2.0.1: ICMP echo request, id 1, seq 1, length 1480
+[36mrt1_1  |[0m IP 1.2.0.3 > 1.2.0.1: ip-proto-1
+[36mrt1_1  |[0m IP 1.2.0.3 > 1.2.0.1: ip-proto-1
+[36mrt1_1  |[0m IP 1.2.0.1 > 1.2.0.3: ICMP echo reply, id 1, seq 1, length 1480
+[36mrt1_1  |[0m IP 1.2.0.1 > 1.2.0.3: ip-proto-1
+[36mrt1_1  |[0m IP 1.2.0.1 > 1.2.0.3: ip-proto-1
+[36mrt1_1  |[0m IP 1.2.0.2 > 1.2.0.1: ICMP echo request, id 1, seq 2, length 64
+[36mrt1_1  |[0m IP 1.2.0.1 > 1.2.0.2: ICMP echo reply, id 1, seq 2, length 64
+[36mrt1_1  |[0m IP 1.2.0.3 > 1.2.0.1: ICMP echo request, id 1, seq 2, length 1480
+[36mrt1_1  |[0m IP 1.2.0.3 > 1.2.0.1: ip-proto-1
+[36mrt1_1  |[0m IP 1.2.0.3 > 1.2.0.1: ip-proto-1
+[36mrt1_1  |[0m IP 1.2.0.1 > 1.2.0.3: ICMP echo reply, id 1, seq 2, length 1480
+[36mrt1_1  |[0m IP 1.2.0.1 > 1.2.0.3: ip-proto-1
+[36mrt1_1  |[0m IP 1.2.0.1 > 1.2.0.3: ip-proto-1
+[36mrt1_1  |[0m IP 1.2.0.2 > 1.2.0.1: ICMP echo request, id 1, seq 3, length 64
+[36mrt1_1  |[0m IP 1.2.0.1 > 1.2.0.2: ICMP echo reply, id 1, seq 3, length 64
+[36mrt1_1  |[0m IP 1.2.0.3 > 1.2.0.1: ICMP echo request, id 1, seq 3, length 1480
+[36mrt1_1  |[0m IP 1.2.0.3 > 1.2.0.1: ip-proto-1
+[36mrt1_1  |[0m IP 1.2.0.3 > 1.2.0.1: ip-proto-1
+[36mrt1_1  |[0m IP 1.2.0.1 > 1.2.0.3: ICMP echo reply, id 1, seq 3, length 1480
+[36mrt1_1  |[0m IP 1.2.0.1 > 1.2.0.3: ip-proto-1
+[36mrt1_1  |[0m IP 1.2.0.1 > 1.2.0.3: ip-proto-1
+[36mrt1_1  |[0m IP 1.2.0.2 > 1.2.0.1: ICMP echo request, id 1, seq 4, length 64
+[36mrt1_1  |[0m IP 1.2.0.1 > 1.2.0.2: ICMP echo reply, id 1, seq 4, length 64
+[36mrt1_1  |[0m IP 1.2.0.3 > 1.2.0.1: ICMP echo request, id 1, seq 4, length 1480
+[36mrt1_1  |[0m IP 1.2.0.3 > 1.2.0.1: ip-proto-1
+[36mrt1_1  |[0m IP 1.2.0.3 > 1.2.0.1: ip-proto-1
+[36mrt1_1  |[0m IP 1.2.0.1 > 1.2.0.3: ICMP echo reply, id 1, seq 4, length 1480
+[36mrt1_1  |[0m IP 1.2.0.1 > 1.2.0.3: ip-proto-1
+[36mrt1_1  |[0m IP 1.2.0.1 > 1.2.0.3: ip-proto-1
+[36mrt1_1  |[0m IP 1.2.0.2 > 1.2.0.1: ICMP echo request, id 1, seq 5, length 64
+[36mrt1_1  |[0m IP 1.2.0.1 > 1.2.0.2: ICMP echo reply, id 1, seq 5, length 64
+[36mrt1_1  |[0m IP 1.2.0.3 > 1.2.0.1: ICMP echo request, id 1, seq 5, length 1480
+[36mrt1_1  |[0m IP 1.2.0.3 > 1.2.0.1: ip-proto-1
+[36mrt1_1  |[0m IP 1.2.0.3 > 1.2.0.1: ip-proto-1
+[36mrt1_1  |[0m IP 1.2.0.1 > 1.2.0.3: ICMP echo reply, id 1, seq 5, length 1480
+[36mrt1_1  |[0m IP 1.2.0.1 > 1.2.0.3: ip-proto-1
+[36mrt1_1  |[0m IP 1.2.0.1 > 1.2.0.3: ip-proto-1
+[36mrt1_1  |[0m IP 1.2.0.2 > 1.2.0.1: ICMP echo request, id 1, seq 6, length 64
+[36mrt1_1  |[0m IP 1.2.0.1 > 1.2.0.2: ICMP echo reply, id 1, seq 6, length 64
+[36mrt1_1  |[0m IP 1.2.0.3 > 1.2.0.1: ICMP echo request, id 1, seq 6, length 1480
+[36mrt1_1  |[0m IP 1.2.0.3 > 1.2.0.1: ip-proto-1
+[36mrt1_1  |[0m IP 1.2.0.3 > 1.2.0.1: ip-proto-1
+[36mrt1_1  |[0m IP 1.2.0.1 > 1.2.0.3: ICMP echo reply, id 1, seq 6, length 1480
+[36mrt1_1  |[0m IP 1.2.0.1 > 1.2.0.3: ip-proto-1
+[36mrt1_1  |[0m IP 1.2.0.1 > 1.2.0.3: ip-proto-1
+[36mrt1_1  |[0m IP 1.2.0.2 > 1.2.0.1: ICMP echo request, id 1, seq 7, length 64
+[36mrt1_1  |[0m IP 1.2.0.1 > 1.2.0.2: ICMP echo reply, id 1, seq 7, length 64
+[36mrt1_1  |[0m IP 1.2.0.3 > 1.2.0.1: ICMP echo request, id 1, seq 7, length 1480
+[36mrt1_1  |[0m IP 1.2.0.3 > 1.2.0.1: ip-proto-1
+[36mrt1_1  |[0m IP 1.2.0.3 > 1.2.0.1: ip-proto-1
+[36mrt1_1  |[0m IP 1.2.0.1 > 1.2.0.3: ICMP echo reply, id 1, seq 7, length 1480
+[36mrt1_1  |[0m IP 1.2.0.1 > 1.2.0.3: ip-proto-1
+[36mrt1_1  |[0m IP 1.2.0.1 > 1.2.0.3: ip-proto-1
+[36mrt1_1  |[0m IP 1.2.0.2 > 1.2.0.1: ICMP echo request, id 1, seq 8, length 64
+[36mrt1_1  |[0m IP 1.2.0.1 > 1.2.0.2: ICMP echo reply, id 1, seq 8, length 64
+[36mrt1_1  |[0m IP 1.2.0.3 > 1.2.0.1: ICMP echo request, id 1, seq 8, length 1480
+[36mrt1_1  |[0m IP 1.2.0.3 > 1.2.0.1: ip-proto-1
+[36mrt1_1  |[0m IP 1.2.0.3 > 1.2.0.1: ip-proto-1
+[36mrt1_1  |[0m IP 1.2.0.1 > 1.2.0.3: ICMP echo reply, id 1, seq 8, length 1480
+[36mrt1_1  |[0m IP 1.2.0.1 > 1.2.0.3: ip-proto-1
+[36mrt1_1  |[0m IP 1.2.0.1 > 1.2.0.3: ip-proto-1
+[36mrt1_1  |[0m IP 1.2.0.2 > 1.2.0.1: ICMP echo request, id 1, seq 9, length 64
+[36mrt1_1  |[0m IP 1.2.0.1 > 1.2.0.2: ICMP echo reply, id 1, seq 9, length 64
+[36mrt1_1  |[0m IP 1.2.0.3 > 1.2.0.1: ICMP echo request, id 1, seq 9, length 1480
+[36mrt1_1  |[0m IP 1.2.0.3 > 1.2.0.1: ip-proto-1
+[36mrt1_1  |[0m IP 1.2.0.3 > 1.2.0.1: ip-proto-1
+[36mrt1_1  |[0m IP 1.2.0.1 > 1.2.0.3: ICMP echo reply, id 1, seq 9, length 1480
+[36mrt1_1  |[0m IP 1.2.0.1 > 1.2.0.3: ip-proto-1
+[36mrt1_1  |[0m IP 1.2.0.1 > 1.2.0.3: ip-proto-1
+[36mrt1_1  |[0m IP 1.2.0.2 > 1.2.0.1: ICMP echo request, id 1, seq 10, length 64
+[36mrt1_1  |[0m IP 1.2.0.1 > 1.2.0.2: ICMP echo reply, id 1, seq 10, length 64
+[36mrt1_1  |[0m IP 1.2.0.3 > 1.2.0.1: ICMP echo request, id 1, seq 10, length 1480
+[36mrt1_1  |[0m IP 1.2.0.3 > 1.2.0.1: ip-proto-1
+[36mrt1_1  |[0m IP 1.2.0.3 > 1.2.0.1: ip-proto-1
+[36mrt1_1  |[0m IP 1.2.0.1 > 1.2.0.3: ICMP echo reply, id 1, seq 10, length 1480
+[36mrt1_1  |[0m IP 1.2.0.1 > 1.2.0.3: ip-proto-1
+[36mrt1_1  |[0m IP 1.2.0.1 > 1.2.0.3: ip-proto-1
+[36mrt1_1  |[0m IP 1.2.0.2 > 1.2.0.1: ICMP echo request, id 1, seq 11, length 64
+[36mrt1_1  |[0m IP 1.2.0.1 > 1.2.0.2: ICMP echo reply, id 1, seq 11, length 64
+[36mrt1_1  |[0m IP 1.2.0.3 > 1.2.0.1: ICMP echo request, id 1, seq 11, length 1480
+[36mrt1_1  |[0m IP 1.2.0.3 > 1.2.0.1: ip-proto-1
+[36mrt1_1  |[0m IP 1.2.0.3 > 1.2.0.1: ip-proto-1
+[36mrt1_1  |[0m IP 1.2.0.1 > 1.2.0.3: ICMP echo reply, id 1, seq 11, length 1480
+[36mrt1_1  |[0m IP 1.2.0.1 > 1.2.0.3: ip-proto-1
+[36mrt1_1  |[0m IP 1.2.0.1 > 1.2.0.3: ip-proto-1
+[36mrt1_1  |[0m IP 1.2.0.2 > 1.2.0.1: ICMP echo request, id 1, seq 12, length 64
+[36mrt1_1  |[0m IP 1.2.0.1 > 1.2.0.2: ICMP echo reply, id 1, seq 12, length 64
+[36mrt1_1  |[0m IP 1.2.0.3 > 1.2.0.1: ICMP echo request, id 1, seq 12, length 1480
+[36mrt1_1  |[0m IP 1.2.0.3 > 1.2.0.1: ip-proto-1
+[36mrt1_1  |[0m IP 1.2.0.3 > 1.2.0.1: ip-proto-1
+[36mrt1_1  |[0m IP 1.2.0.1 > 1.2.0.3: ICMP echo reply, id 1, seq 12, length 1480
+[36mrt1_1  |[0m IP 1.2.0.1 > 1.2.0.3: ip-proto-1
+[36mrt1_1  |[0m IP 1.2.0.1 > 1.2.0.3: ip-proto-1
+[36mrt1_1  |[0m IP 1.2.0.2 > 1.2.0.1: ICMP echo request, id 1, seq 13, length 64
+[36mrt1_1  |[0m IP 1.2.0.1 > 1.2.0.2: ICMP echo reply, id 1, seq 13, length 64
+[36mrt1_1  |[0m IP 1.2.0.3 > 1.2.0.1: ICMP echo request, id 1, seq 13, length 1480
+[36mrt1_1  |[0m IP 1.2.0.3 > 1.2.0.1: ip-proto-1
+[36mrt1_1  |[0m IP 1.2.0.3 > 1.2.0.1: ip-proto-1
+[36mrt1_1  |[0m IP 1.2.0.1 > 1.2.0.3: ICMP echo reply, id 1, seq 13, length 1480
+[36mrt1_1  |[0m IP 1.2.0.1 > 1.2.0.3: ip-proto-1
+[36mrt1_1  |[0m IP 1.2.0.1 > 1.2.0.3: ip-proto-1
+[36mrt1_1  |[0m IP 1.2.0.2 > 1.2.0.1: ICMP echo request, id 1, seq 14, length 64
+[36mrt1_1  |[0m IP 1.2.0.1 > 1.2.0.2: ICMP echo reply, id 1, seq 14, length 64
+[36mrt1_1  |[0m IP 1.2.0.3 > 1.2.0.1: ICMP echo request, id 1, seq 14, length 1480
+[36mrt1_1  |[0m IP 1.2.0.3 > 1.2.0.1: ip-proto-1
+[36mrt1_1  |[0m IP 1.2.0.3 > 1.2.0.1: ip-proto-1
+[36mrt1_1  |[0m IP 1.2.0.1 > 1.2.0.3: ICMP echo reply, id 1, seq 14, length 1480
+[36mrt1_1  |[0m IP 1.2.0.1 > 1.2.0.3: ip-proto-1
+[36mrt1_1  |[0m IP 1.2.0.1 > 1.2.0.3: ip-proto-1
+[36mrt1_1  |[0m IP 1.2.0.2 > 1.2.0.1: ICMP echo request, id 1, seq 15, length 64
+[36mrt1_1  |[0m IP 1.2.0.1 > 1.2.0.2: ICMP echo reply, id 1, seq 15, length 64
+[36mrt1_1  |[0m IP 1.2.0.3 > 1.2.0.1: ICMP echo request, id 1, seq 15, length 1480
+[36mrt1_1  |[0m IP 1.2.0.3 > 1.2.0.1: ip-proto-1
+[36mrt1_1  |[0m IP 1.2.0.3 > 1.2.0.1: ip-proto-1
+[36mrt1_1  |[0m IP 1.2.0.1 > 1.2.0.3: ICMP echo reply, id 1, seq 15, length 1480
+[36mrt1_1  |[0m IP 1.2.0.1 > 1.2.0.3: ip-proto-1
+[36mrt1_1  |[0m IP 1.2.0.1 > 1.2.0.3: ip-proto-1
+[36mrt1_1  |[0m IP 1.2.0.2 > 1.2.0.1: ICMP echo request, id 1, seq 16, length 64
+[36mrt1_1  |[0m IP 1.2.0.1 > 1.2.0.2: ICMP echo reply, id 1, seq 16, length 64
+[36mrt1_1  |[0m IP 1.2.0.3 > 1.2.0.1: ICMP echo request, id 1, seq 16, length 1480
+[36mrt1_1  |[0m IP 1.2.0.3 > 1.2.0.1: ip-proto-1
+[36mrt1_1  |[0m IP 1.2.0.3 > 1.2.0.1: ip-proto-1
+[36mrt1_1  |[0m IP 1.2.0.1 > 1.2.0.3: ICMP echo reply, id 1, seq 16, length 1480
+[36mrt1_1  |[0m IP 1.2.0.1 > 1.2.0.3: ip-proto-1
+[36mrt1_1  |[0m IP 1.2.0.1 > 1.2.0.3: ip-proto-1
+[36mrt1_1  |[0m IP 1.2.0.2 > 1.2.0.1: ICMP echo request, id 1, seq 17, length 64
+[36mrt1_1  |[0m IP 1.2.0.1 > 1.2.0.2: ICMP echo reply, id 1, seq 17, length 64
+[36mrt1_1  |[0m IP 1.2.0.3 > 1.2.0.1: ICMP echo request, id 1, seq 17, length 1480
+[36mrt1_1  |[0m IP 1.2.0.3 > 1.2.0.1: ip-proto-1
+[36mrt1_1  |[0m IP 1.2.0.3 > 1.2.0.1: ip-proto-1
+[36mrt1_1  |[0m IP 1.2.0.1 > 1.2.0.3: ICMP echo reply, id 1, seq 17, length 1480
+[36mrt1_1  |[0m IP 1.2.0.1 > 1.2.0.3: ip-proto-1
+[36mrt1_1  |[0m IP 1.2.0.1 > 1.2.0.3: ip-proto-1
+[36mrt1_1  |[0m IP 1.2.0.2 > 1.2.0.1: ICMP echo request, id 1, seq 18, length 64
+[36mrt1_1  |[0m IP 1.2.0.1 > 1.2.0.2: ICMP echo reply, id 1, seq 18, length 64
