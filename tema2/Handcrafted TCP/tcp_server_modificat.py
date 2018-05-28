@@ -2,13 +2,14 @@
 import socket
 import logging
 import time
+import sys
 
 logging.basicConfig(format = u'[LINE:%(lineno)d]# %(levelname)-8s [%(asctime)s]  %(message)s', level = logging.NOTSET)
 
 sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-sock.setsockopt(socket.SOL_SOCKET,socket.SO_REUSEADDR,2) # from git
 
-port = 10000
+#port = 10000
+port = int(sys.argv[1])
 adresa = '0.0.0.0'
 server_address = (adresa, port)
 sock.bind(server_address)
@@ -19,9 +20,9 @@ conexiune, address = sock.accept()
 logging.info("Handshake cu %s", address)
 while True:
     data = conexiune.recv(1) # doar 1 byte
-    logging.info('Content primit de la Handshake: "%s"', data)
+    logging.info('Content primit : "%s"', data)
     data = str(data).upper()
-    logging.info('Content trimis catre Handshake: "%s"', data)
+    logging.info('Content trimis : "%s"', data)
     conexiune.send(data)
 
 conexiune.close()
