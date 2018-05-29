@@ -1,0 +1,1 @@
+Setup ethernet to broadcast and ARP to the subnet address, then send packages to all machines in the network awaiting for a response with a timeout of 5 milliseconds. First, print the source machine IP and MAC address, then print all other IPs and Addreses gathered from machines who responded to our requests.
