@@ -74,3 +74,5 @@ except KeyboardInterrupt:
     print("[*] Stopping network capture..Restoring network")
     heal_network(gateway_ip, gateway_mac, target_ip, target_mac)
     exit()
+#ip -s -s neigh flush all - Flush pe rt1
+#tcpdump -qns 0 -X -r numefisier.pcap - Vazut pcap pe mid1
